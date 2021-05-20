@@ -46,7 +46,7 @@ When I am not working I usually spend my time with reading books and sometimes i
 
 ## Top Languages
  <p align="center"> 
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=Saikat98Paul&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400"/>
+<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/ username=Saikat98Paul&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400"/>
 </p>
 
 
