@@ -17,9 +17,27 @@ When I am not working I usually spend my time with reading books and sometimes i
 <a href="https://twitter.com/SaikatP60355022"><img align="left" alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="22px" /></a>
 <a href="https://www.linkedin.com/in/saikat-paul-5b430715a/"><img align="left" alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" /></a>
 <a href="https://www.instagram.com/im__saikat/"><img align="left" alt="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="22px" /></a>
+<br/>
+<br/>
 
+### Languages and Tools:
+
+
+<a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="30px" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img align="left" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30px" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="left" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30px" /></a>
+<a href="https://www.javascript.com/"><img align="left" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30px" /></a>
+<a href="https://reactjs.org/"><img align="left" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30px" /></a>
+<a href="https://nodejs.org/en/"><img align="left" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="30px" /></a>
+<a href="https://www.javatpoint.com/sql-tutorial#:~:text=SQL%20stands%20for%20Structured%20Query,%2C%20and%20modifying%20rows%2C%20etc."><img align="left" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="30px" /></a>
+<a href="https://www.mysql.com/"><img align="left" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="30px" /></a>
+<a href="https://git-scm.com/"><img align="left" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="30px" /></a>
+<a href="https://github.com/"><img align="left" alt="Github" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="30px" /></a>
+<a href="https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab"><img align="left" alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="30px" /></a>
+
+<br/>
+<br/>
 <div>
-
 
 ## Github stats
  <p align="center"> 
